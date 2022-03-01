@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act concerning the priviledges of the office of Lyon King at Armes. Edinburgh, 10. of September, 1672.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05175</idno>
+            <idno type="STC">Wing S1072A</idno>
+            <idno type="STC">ESTC R183879</idno>
+            <idno type="EEBO-CITATION">52529446</idno>
+            <idno type="OCLC">ocm 52529446</idno>
+            <idno type="VID">178887</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178887)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act concerning the priviledges of the office of Lyon King at Armes. Edinburgh, 10. of September, 1672.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and published by authority,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Court of the Lord Lyon --  Early works to 1800.</term>
+               <term>Heraldry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178887:1"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:178887:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>ACT Concerning the Priviledges of the Office of Lyon King at Armes.</head>
+            <opener>
+               <dateline>Edinburgh, <date>10. of September, 1672.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Soveraign Lord conſidering, That, albeit by the 125. Act of the 12. Parliament, holden by His <hi>Majeſties</hi> Grand-father, in the Year, 1592. the uſurpation of Armes by any of His <hi>Majeſties</hi> Leiges, without the Authority of the <hi>Lyon King of Armes,</hi> is expreſly diſcharged; And that, in order thereto, Power and Commiſſion is granted to the <hi>Lyon King of Armes,</hi> or his Deputes, to viſit the whole Armes of Noblemen, Barons and Gentlemen, and to matriculate the ſame in their Regiſters, and to fyne in one hundred pounds, all others who ſhall unjuſtly uſurp Armes; As alſo to eſcheat all ſuch Goods and Gear, as ſhall have unwarrantable Armes ingraven on them. Yet, amongſt the many irregularities of theſe late times, very many have aſſumed to themſelves Armes, who ſhould bear none; and many of thoſe who in Law bear, have aſſumed to themſelves the Armes of their Chief, without diſtinctions, or Armes which were not carried by them or their Predeceſſors. Therefore His <hi>Majeſty,</hi> with advice and conſent of His Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, Ratifies and Approves the foreſaid Act of Parliament: And for the more vigorous pro<g ref="char:EOLhyphen"/>ſecution thereof, doth hereby Statute and Ordain, that Letters of publication of this preſent Act be direct to be execute at the Market-croſs of the head Burghs of the Shires, Stewartries, Baileries of Royalty and Regality, and Royal Burrows, charging all and ſundry Prelats, Noblemen, Barons and Gentlemen, who make uſe of any Armes or Signs armorial, wi<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in the ſpace of one year after the ſaid publication, to bring or ſend an account of what Armes, or Signs armorial they are ac<gap reason="illegible: bleedthrough" extent="6+ letters">
+                  <desc>••••••…</desc>
+               </gap>ed to uſe, and whether they be Deſcendants of any Family, the Armes of which Family they bear, and of what Brother of the Family they are deſcended; With Teſtificats from perſons of Honour, Noblemen or Gentlemen of quality, anent the verity of their having and uſing thoſe Arms, and of their deſcent as aforeſaid, to be delivered either to the Clerk of the Juriſdiction where the perſons dwell, or to the Lyon Clerk at his Office in <hi>Edinburgh,</hi> at the option of the party, upon their Receits <hi>gratis,</hi> without paying any thing therefore: Which Receit ſhall be a ſufficient exoneration to them, from being obliged to produce again, to the effect, that the <hi>Lyon King of Armes</hi> may diſtinguiſh the ſaids Armes, with congruant Differences, and may matriculate the ſame in his Books and Regiſters, and may give Armes to vertuous and well deſerving perſons, and Extracts of all Armes, expreſſing the blazoning of the Armes under his hand and ſeal of Office: For which ſhall be payed to the Lyon, the ſumm of twenty merks, by every Prelat and Nobleman; and ten merks, by every Knight and Baron; and five merks, by every other perſon bearing Armes, and no more: And His <hi>Majeſty</hi> hereby diſpenſes with any penalties that may ariſe by this or any pre<g ref="char:EOLhyphen"/>ceeding Act, for bearing Armes, before the Proclamation to be iſſued hereupon. And it is Statute and Ordained, with conſent foreſaid, that the ſaid Regiſter ſhall be reſpected as the true and unrepealable rule of all Armes and Bearings in <hi>Scotland,</hi> to remain with the Lyons Office as a publick Regiſter of the Kingdom, and to be tranſmitted to his Succeſſors in all time coming: And that, whoſoever ſhall uſe any other Armes any manner of way, after the expyring of year and day from the date of the Pro<g ref="char:EOLhyphen"/>clamation to be iſſued hereupon, in manner foreſaid, ſhall pay one hundred pounds money, <hi>totiès quotiès,</hi> to the Lyon, and ſhall likewiſe eſcheat to His <hi>Majeſty,</hi> all the moveable Goods and Gear upon which the ſaids Armes are engraven, or otherwiſe repreſented. And His <hi>Majeſty,</hi> with conſent foreſaids, Declares, that it is only allowed for Noblemen and Biſhops to ſub<g ref="char:EOLhyphen"/>ſcribe their Titles; And that all others ſhall ſubſcribe their Chriſtned Names, or the initial letter thereof with their Sirnames; and may, if they pleaſe, adject the Deſignations of their Lands, prefixing the word <hi>[of]</hi> to the ſaids Deſignations. And the <hi>Lyon King of Armes</hi> and his Brethren, are required to be carefull of informing themſelves of the contraveeners hereof, and that they acquaint His <hi>Majeſties</hi> Council therewith, who are hereby impowered to puniſh them as perſons diſobedient to, and contraveeners of the Law. It is likewiſe hereby Declared, that the Lyon and his Brethren Heraulds are Judges in all ſuch cauſes, concerning the Maleverſation of Meſſengers in their Office, and are to enjoy all other priviledges belonging to their Office, which are ſecured to them by the Laws of this Kingdom, and according to former practice.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed, and Publiſhed by Authority. <hi>Anno Dom.</hi> 1673.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
